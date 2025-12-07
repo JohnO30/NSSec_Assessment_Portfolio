@@ -22,6 +22,10 @@ Each lab contains:
 
 ## Lab Contents
 
+### [Lab 1: Introduction to Network & System Security](Lab%201/)
+- Career research and documentation
+- Career framework analysis
+
 ### [Lab 2: Public Key Cryptography & RSA](Lab%202/)
 - RSA key generation using Python's cryptography library
 - Public/private key pair creation and serialization
